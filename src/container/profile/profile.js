@@ -1,10 +1,10 @@
-
+import PrimarySearchAppBar from "../../component/PrimarySearchAppBar/PrimarySearchAppBar";
 
 function Profile(){
     return(<>
     
+     <PrimarySearchAppBar/>
     
-    <h1>profile</h1>
     
     
     </>);
